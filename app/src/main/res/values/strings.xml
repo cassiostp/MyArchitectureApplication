@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Architecture Application</string>
+
+    <string name="apply_hello_text">Apply Text</string>
+</resources>
